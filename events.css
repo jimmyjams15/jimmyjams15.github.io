@@ -1,0 +1,91 @@
+html {
+    height: 100%;
+  }
+  body {
+      background-color: silver;
+      background-size: cover;
+     width: 800px;
+     height: 100%;
+  }
+  
+  header {
+      text-align: center;
+      background-image:url("books.jpg.") ;
+      background-size: cover;
+      border: 6px groove red;
+      padding: 5px;
+      font-size:40px ;
+      font-family: freestyle script;
+      width: 120%
+  }
+  article img{
+      width: 800px;
+  }
+  h2 {
+      font-size: 30px;
+      text-align: center;
+      color: peru;
+  }
+  nav {
+      float: left;
+      width: 200%;
+  }
+  nav ul {
+      width: 600px;
+    background-color: rgb(119, 187, 226);
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+      border: 4px groove peru;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      width: 200%;
+      height: 60px;
+      padding: 12px 18px 8px 18px;
+      vertical-align: middle;
+      font-size: 40px;
+  }
+ 
+  h2 a {
+      color:black ;
+      font-size: 
+  }    
+  p{
+      color:rgb(10, 0, 66);
+      margin: 50 px;
+      font-size: 20px;
+      
+  }
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+  } 
+  section li{
+      color: red;
+  }
+  }
+}
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
